@@ -4,13 +4,13 @@
 This repository provides the dataset introduced our NAACL 2024 paper:
 
 > [ELEAF: Language Learners' English Essays and Feedback Corpus](https://aclanthology.org/2024.naacl-short.36/) <br><br>
-> [Shabnam Behzad](https://shabnam-b.github.io/), Omid Kashefi, Swapna Somasundaran. <br>
+> [Shabnam Behzad](https://shabnam-b.github.io/), Omid Kashefi, Swapna Somasundaran. <br><br><br>
 
 
 
 
 
-The second verion of the LEAF dataset is avaible as data.jsonl <br><br> AI-Augmented feedback will be added soon!<br><br>
+The repository includes the second version of the LEAF dataset as data.jsonl <br><br> AI-Augmented feedback will be added soon!<br><br>
 Changes we made compared to what is described in the paper: <br>
 - Only feedback comments from Educational Consultant Mary Rose are included in the dataset to ensure higher quality feedback, so this version is a little smaller than what is reported in the paper. <br>
 - Splits are now 500/400/4018 test/dev/train <br><br>
