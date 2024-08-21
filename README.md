@@ -1,7 +1,7 @@
 # LEAF: Language Learners' English Essays and Feedback Corpus
 
 
-This repository provides the dataset introduced our NAACL 2024 paper:
+This repository provides the dataset introduced in our NAACL 2024 paper:
 
 > [ELEAF: Language Learners' English Essays and Feedback Corpus](https://aclanthology.org/2024.naacl-short.36/) <br><br>
 > [Shabnam Behzad](https://shabnam-b.github.io/), Omid Kashefi, Swapna Somasundaran. <br>
